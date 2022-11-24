@@ -1,1 +1,1 @@
-# Metode-Decision-Tree-Metode-Metode-K.-Nearest-Neighbors
+# Metode-Decision-Tree-Metode-dan-Metode-K.-Nearest-Neighbors
